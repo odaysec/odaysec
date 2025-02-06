@@ -45,6 +45,7 @@
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@intelligencerac.id</sub>
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=odaysec&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+
 <br/><br/>
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-Scripting%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -61,3 +62,11 @@
 </div>
 
 [<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://github.com/odaysec/sponsors/)
+
+
+<p align='center'>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
+</p>
+
+
+<br>
