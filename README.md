@@ -30,14 +30,14 @@
 <br/>
 <br/>
   
-- 📗 [***odaysec/CVE-MAP***](https://github.com/pwnosec/CVE-MAP) <br/>
-  The Exploit Database - Exploits for Penetration Testers
-- 📘 [***odaysec/NA1SS-SATL***](https://github.com/pwnosec/NA1SS-SATL) <br/>
-  Proyecto basado en C++ que utiliza ImGui y GLFW para mostrar los datos SATL 1Z2CEF NA1SS de Space Nation en una interfaz gráfica basada en OpenGL.
-- 📙 [***odaysec/subfilter***](https://github.com/pwnosec/subfilter) <br/>
-  Filter Main Domains es un sencillo script Bash para filtrar dominios principales a partir de una lista de URLs o texto aleatorio.
-- 📒 [***odaysec/jirapwn***](https://github.com/pwnosec/jirapwn) <br/>
-  Python-based tool for detecting vulnerabilities in Jira instances, by checking for known CVEs and providing reports on the security status of Jira endpoints.
+- 📗 [***odaysec/Zeroway***](https://github.com/odaysec/Zeroway) <br/>
+  Python Finding URL parameters using waybackurls and gau (Get All URLs parameter).
+- 📘 [***odaysec/RubyProduct***](https://github.com/odaysec/RubyProduct) <br/>
+  An easy to use product platforms Ruby projects.
+- 📙 [***odaysec/ZMAP-WAF***](https://github.com/pwnosec/subfilter) <br/>
+  ZMAP-WAF is a powerful and automated security tool that combines multiple security scanning techniques
+- 📒 [***odaysec/ZDNS-Enumeration***](https://github.com/pwnosec/jirapwn) <br/>
+  ZDNS Enumeration Automation Tool is a Python-based automation tool that leverages ZDNS, a fast and scalable DNS resolution tool.
   
 <img src="https://i.ibb.co.com/YBbZw05q/Yellow-and-Black-Circles-Arts-and-Crafts-Creative-Agency-Logo.png" width="270" align="right" />
 <br/>
