@@ -1,3 +1,15 @@
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=odaysec&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<br>
+<div>
+  <div align=center>
+      <img height="200" alt="Avatar photo of odaysec" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+  </div>
+<p align='center'>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58F8FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity...;Automating+Bug+Bounty+Workflows...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
 </p>
@@ -62,11 +74,6 @@
 </div>
 
 [<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://github.com/odaysec/sponsors/)
-
-
-<p align='center'>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
-</p>
 
 
 <br>
