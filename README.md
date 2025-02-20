@@ -53,6 +53,7 @@
   
 <img src="https://i.ibb.co.com/YBbZw05q/Yellow-and-Black-Circles-Arts-and-Crafts-Creative-Agency-Logo.png" width="270" align="right" />
 <br/>
+
 <img src="./img/haaaaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@intelligencerac.id</sub>
 <br/><br/>
@@ -70,6 +71,14 @@
   <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </p>
 </p>
+<p align="center">
+<a href="https://github.com/aaafarrr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaysec&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odaysec&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD&dates=DDDDDD&stroke=DDDDDD"/>
+</a>
+</p>
+
 <img src="./img/zer.gif" width="100%" align="center" />
 </div>
 
