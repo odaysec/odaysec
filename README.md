@@ -23,7 +23,7 @@
 
 - Name: **アンドリー・アンドリ**
 
-- Residing in: **East of Java, Indonesia**
+- Residing in: **East of Java, Khuvukiland**
 
 - Field of Study: **Computer Science**
 
@@ -33,7 +33,7 @@
 
 - Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
 
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- Languages: Bahasa, Bahasa Melayu, English, and 日本語
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
