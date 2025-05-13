@@ -59,6 +59,7 @@
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=odaysec&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 
+
 <br/><br/>
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-Scripting%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -79,10 +80,15 @@
 </a>
 </p>
 
+
 <img src="./img/zer.gif" width="100%" align="center" />
 </div>
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://github.com/odaysec/sponsors/)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://github.com/sponsors/odaysec)
 
 
-<br>
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=odaysec&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
