@@ -84,11 +84,16 @@
 <img src="./img/zer.gif" width="100%" align="center" />
 </div>
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=346749557" height="20">](https://github.com/sponsors/odaysec)
+[![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/odaysec) 
 
 
+<div align="center">
+	
 ### 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=odaysec&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+</div>
 
 ---
 
+https://github.com/user-attachments/assets/9fefe033-04c1-4380-b611-f2253a09e0ad
