@@ -94,6 +94,16 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </div>
 
+<br/><br/>
+<p align='center'>
+<a href="https://hackerone.com/hacktivity/overview?queryString=reporter%3A%28%22odaysec%22%29+AND+disclosed%3Afalse&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="Hackerone">
+  <a href="https://bugcrowd.com/zdb_" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd">
+  <a href="https://app.intigriti.com/researcher/odaysec" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Intigriti-%23161A36?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti">
+  </p>
+  
 ---
 
 https://github.com/user-attachments/assets/9fefe033-04c1-4380-b611-f2253a09e0ad
