@@ -96,7 +96,7 @@
 
 <br/><br/>
 <p align='center'>
-<a href="https://hackerone.com/hacktivity/overview?queryString=reporter%3A%28%22odaysec%22%29+AND+disclosed%3Afalse&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0" target="_blank" rel="noopener noreferrer">
+<a href="https://hackerone.com/odaysec/hacktivity/?type=user" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="Hackerone">
   <a href="https://bugcrowd.com/zdb_" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd">
