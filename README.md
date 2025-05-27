@@ -87,12 +87,6 @@
 [![GitHub Sponsors - dwisiswant0](https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/odaysec) 
 
 
-<div align="center">
-	
-### 🔝 Top Contributed Repo 
-
-<img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
-</div>
 
 <br/><br/>
 <p align='center'>
@@ -103,7 +97,15 @@
   <a href="https://app.intigriti.com/researcher/odaysec" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Intigriti-%23161A36?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti">
   </p>
-  
+
+
+  <div align="center">
+	
+### 🔝 Top Contributed (OSS)
+
+<img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=11&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+</div>
+
 ---
 
-https://github.com/user-attachments/assets/9fefe033-04c1-4380-b611-f2253a09e0ad
+
