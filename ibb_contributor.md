@@ -13,7 +13,7 @@
 	
 ### 🔝 Top Contributed (OSS)
 
-<img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=12&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+<img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=13&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </div>
 
 ---
