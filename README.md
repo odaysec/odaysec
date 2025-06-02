@@ -74,7 +74,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/odaysec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaysec&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaysec&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odaysec&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD&dates=DDDDDD&stroke=DDDDDD"/>
 </a>
