@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=13&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=14&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </p>
 
 <img src="./img/zer.gif" width="100%" align="center" />
