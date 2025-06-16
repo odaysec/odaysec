@@ -87,7 +87,11 @@
 <img src="./img/zer.gif" width="100%" align="center" />
 </div>
 
-[![GitHub Sponsors - 0daysec](https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/odaysec) 
+| ![Gambar 1](./img/odysecpwn.gif) |  
+|:--:|
+| [![GitHub Sponsors - 0daysec](https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/odaysec)  |
+
+
 
 
 
