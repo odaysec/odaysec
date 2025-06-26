@@ -9,6 +9,10 @@
 <p align='center'>
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
 </p>
+<p align='center'>
+<img src="https://leetcard.jacoblin.cool/odaysec?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58F8FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity...;Automating+Bug+Bounty+Workflows...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
