@@ -1,5 +1,5 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=odaysec&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=opsysdebug&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <br>
 <div>
@@ -7,10 +7,10 @@
 <img src="./img/story.png" width="488" />
   </div>
 <p align='center'>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=opsysdebug" alt="Advanced GitHub Stats for opsysdebug" width="500"/>
 </p>
 <p align='center'>
-<img src="https://leetcard.jacoblin.cool/odaysec?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
+<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for opsysdebug" width="500"/>
 </p>
 
 
@@ -39,20 +39,20 @@
 
 - Languages: Bahasa, Bahasa Melayu, English, and 日本語
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsysdebug&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
 <br/>
 <br/>
   
-- 📗 [***odaysec/Zeroway***](https://github.com/odaysec/Zeroway) <br/>
+- 📗 [***opsysdebug/Zeroway***](https://github.com/opsysdebug/Zeroway) <br/>
   Python Finding URL parameters using waybackurls and gau (Get All URLs parameter).
-- 📘 [***odaysec/RubyProduct***](https://github.com/odaysec/RubyProduct) <br/>
+- 📘 [***opsysdebug/RubyProduct***](https://github.com/opsysdebug/RubyProduct) <br/>
   An easy to use product platforms Ruby projects.
-- 📙 [***odaysec/ZMAP-WAF***](https://github.com/pwnosec/subfilter) <br/>
+- 📙 [***opsysdebug/ZMAP-WAF***](https://github.com/pwnosec/subfilter) <br/>
   ZMAP-WAF is a powerful and automated security tool that combines multiple security scanning techniques
-- 📒 [***odaysec/ZDNS-Enumeration***](https://github.com/pwnosec/jirapwn) <br/>
+- 📒 [***opsysdebug/ZDNS-Enumeration***](https://github.com/pwnosec/jirapwn) <br/>
   ZDNS Enumeration Automation Tool is a Python-based automation tool that leverages ZDNS, a fast and scalable DNS resolution tool.
   
 <img src="https://i.ibb.co.com/YBbZw05q/Yellow-and-Black-Circles-Arts-and-Crafts-Creative-Agency-Logo.png" width="270" align="right" />
@@ -61,7 +61,7 @@
 <img src="./img/haaaaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@intelligencerac.id</sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=odaysec&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=opsysdebug&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 
 
 <br/><br/>
@@ -77,15 +77,15 @@
 </p>
 </p>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaysec&rank_icon=github&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
-<a href="https://github.com/odaysec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odaysec&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD&dates=DDDDDD&stroke=DDDDDD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opsysdebug&rank_icon=github&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+<a href="https://github.com/opsysdebug">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsysdebug&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=opsysdebug&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD&dates=DDDDDD&stroke=DDDDDD"/>
 </a>
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=24&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=opsysdebug&limit=31&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </p>
 
 <img src="./img/zer.gif" width="100%" align="center" />
@@ -93,7 +93,7 @@
 
 | ![Gambar 1](./img/odysecpwn.gif) |  
 |:--:|
-| [![GitHub Sponsors - 0daysec](https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/odaysec)  |
+| [![GitHub Sponsors - 0daysec](https://img.shields.io/badge/GitHub_Sponsors-opsysdebug-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/opsysdebug)  |
 
 
 
