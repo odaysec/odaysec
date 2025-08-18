@@ -35,7 +35,6 @@ npm run dev
 
 ### Access Developer Console  
 1. Open browser to `http://localhost:8337/appsuite/`  
-2. Login with credentials console
    
 ### Execute Exploit  
 ```javascript  
