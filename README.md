@@ -6,12 +6,12 @@
 	<img src = "https://komarev.com/ghpvc/?username=opsysdebug&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/Python-Scripting%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Zmap-Fast%20Network%20Scanning-F78C6C?style=for-the-badge&logo=linux&logoColor=white" alt="Zmap">
-  <img src="https://img.shields.io/badge/ZDNS-DNS%20Enumeration-0088FF?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="ZDNS">
-  <img src="https://img.shields.io/badge/Elasticsearch-Big%20Data%20Storage-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-  <img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/Kibana-Data%20Visualization-00BFBF?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
+  <img src="https://img.shields.io/badge/ptscanner-Scripting%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ptscanner">
+  <img src="https://img.shields.io/badge/NewsCrap-Fast%20OSINT%20Scarapper-F78C6C?style=for-the-badge&logo=linux&logoColor=white" alt="Zmap">
+  <img src="https://img.shields.io/badge/kybercryptor-Encryption-0088FF?style=for-the-badge&logo=grafana&logoColor=white" alt="ZDNS">
+  <img src="https://img.shields.io/badge/Cybersec%20Platform%20Tool-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+  <img src="https://img.shields.io/badge/advisory.zerodaysec.org-F46800?style=for-the-badge&logo=ruby&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/me.zerodaysec.org-00BFBF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Kibana">
   <img src="https://img.shields.io/badge/Ansible-Automation-D92525?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 </p>
