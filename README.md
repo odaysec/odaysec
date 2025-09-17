@@ -128,7 +128,7 @@ On the **Bugcrowd platform**, I reported **critical vulnerabilities** in two pri
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=18&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=12&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </p>
 
 
