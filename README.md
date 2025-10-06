@@ -1,142 +1,49 @@
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=odaysec&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors" alt="GitHub Sponsors - 0daysec" /> </a> </p>
 </p>
 
-<p align="center">
-<img src="https://blog.konstruct.io/content/images/2024/04/github-stars-logo_Color.webp" alt="Nominate me as a GitHub Star" width="22" style="vertical-align:middle; margin-right:6px;"/></a>  <b>Support My Nomination</b><br> 
-  If you believe in my contributions to cybersecurity and open source,<br>
-  please consider <b>nominating me as a GitHub Star</b> 
-  <a href="https://stars.github.com/nominate/"><b>Nominate me here</b></a>
+<div align="center">
+<p>
+  <img src="https://blog.konstruct.io/content/images/2024/04/github-stars-logo_Color.webp" width="20" style="vertical-align:middle; margin-right:6px;">
+  <a href="https://stars.github.com/nominate/"><b>Support My Nomination</b></a>
 </p>
-
-
-<br>
-<div>
-  <div align=center>
-<img src="./img/story.png" width="488" />
-  </div>
-<p align='center'>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
-</p>
-<p align='center'>
-<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58F8FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity...;Automating+Bug+Bounty+Workflows...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
-</p>
-<div>
-<img width="337" src="https://i.ibb.co.com/27K5MbxM/Yellow-and-Black-Circles-Arts-and-Crafts-Creative-Agency-Logo-1.png" align=right />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
-<br/>
-<br/>
-<br/>
-
-- Name: **アンドリー・アンドリ**
-
-- Residing in: **East of Java, Khuvukiland**
-
-- Field of Study: **Computer Science**
-
-- Proficient in: **GNU/Linux** and **FreeBSD**
-
-- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
-
-- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
-
-- Languages: Bahasa, Bahasa Melayu, English, and 日本語
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-<br/>
-<br/>
-<img src="./img/Repo-elaina.png" width="488" />
-<br/>
-<br/>
   
-
-### <img src="https://pbs.twimg.com/profile_images/1419941099016175625/dhdViDLS_200x200.png" alt="Google" width="18"/> [**Google VRP Researcher**](https://bughunters.google.com/profile/702cda82-b10f-4d6c-b509-65434bd89b15/awards)  
-As an independent security researcher under **Google’s Vulnerability Reward Program (VRP)**, I contributed to strengthening the security of Google products and services through responsible disclosure of previously unknown vulnerabilities.  
-
-**Key Achievements:**  
-- Discovered and reported multiple vulnerabilities in Google systems  
-- Earned **5 official security awards** (including secret-level recognitions such as *Tiger, Pig, Rabbit, Rat*)  
-- Active contributor since **July 2021**  
-- Recognized for the **first valid report** within the first month of joining  
+<table>
+<tr>
+<td align="center" width="420" style="border: 1px solid #30363d; border-radius:10px; background-color:#0d1117; padding:15px;">
 
 
+<table align="center">
+<tr><td align="left">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/768px-Microsoft_icon.svg.png" alt="Microsoft" width="18"/> [**Microsoft Researcher**](https://www.linkedin.com/feed/update/urn:li:activity:7352465512779403264/)  
-Acknowledged by the **Microsoft Security Response Center (MSRC)** for reporting a vulnerability that impacted Microsoft Online Services.  
-- Officially published on **May 31, 2025**  
-- Listed among recognized MSRC security researchers  
-
-
-### <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-hackerone/contentbuilder/event_THB.png" alt="HackerOne" width="18"/> [**HackerOne Researcher**](https://hackerone.com/)  
-I have been an active security researcher on the **HackerOne platform** since 2018, contributing to both public and private programs across diverse industries.Over the years, I’ve managed multiple accounts (each tied to different private programs) to avoid overlap and ensure focus on specific engagements.  
-
-**Accounts & Highlights:**  
-- [**Deb0con**](https://hackerone.com/deb0con/hacktivity) — Created in 2018, active until 2019–2020  
-  - Recognized as a **Top Researcher** in the U.S. Department of Defense program  
-  - Achieved **3200+ reputation points** from the Pentagon  
-  - Earned multiple acknowledgments for impactful reports  
-
-- [**Hackeronanywhere**](https://hackerone.com/hackeronanywhere/hacktivity) — Second account focused on **blockchain security research**  
-  - Reported **critical vulnerabilities** in **Cosmos Network** and related ecosystems  
-  - Specialized in blockchain and decentralized infrastructure security  
-
-- [**Odaysec**](https://hackerone.com/odaysec/hacktivity) — My **current active account**, created after duplicate account policy enforcement  
-  - Focused on **large-scale projects** and reporting **critical vulnerabilities**  
-  - Collaborated with programs for **timely vulnerability remediation**  
-  - Recognized as a **Top 3 GitHub Expert Researcher** for high & critical reports in GitHub programs  
-
-**Research Focus on HackerOne:**  
-- Web application security  
-- IoT Vulnerabilities   
-- Blockchain vulnerabilities
-- Others
-
-
-
-### <img src="https://www.bugcrowd.com/wp-content/uploads/2023/02/Press-Kit-Transparent-Hex-B.png" alt="Bugcrowd" width="18"/> [**BugCrowd Profile**](https://bugcrowd.com/h/bjormg)  
-
-On the **Bugcrowd platform**, I reported **critical vulnerabilities** in two private programs. This account is now set to **private**, while I continue contributing as an independent researcher. Reported **critical vulnerabilities** across two programs. This account is now set to **private** while continuing active security research.  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-
-
-  
-<img src="https://i.ibb.co.com/YBbZw05q/Yellow-and-Black-Circles-Arts-and-Crafts-Creative-Agency-Logo.png" width="270" align="right" />
-<br/>
-
-<img src="./img/haaaaa.png" width="500" /><br/>
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : github@zerodaysec.org</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=odaysec&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-
-
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaysec&rank_icon=github&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
-<a href="https://github.com/odaysec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaysec&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odaysec&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD&dates=DDDDDD&stroke=DDDDDD"/>
-</a>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="20" style="vertical-align:middle; margin-right:6px;">
+  <a href="https://yourwebsite.com" target="_blank"><b>me.zerodaysec.org</b></a>
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=12&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20" style="vertical-align:middle; margin-right:6px;">
+  <a href="https://instagram.com/youryreborn" target="_blank"><b>Instagram</b></a>
 </p>
 
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="20" style="vertical-align:middle; margin-right:6px;">
+  <a href="https://www.youtube.com/@deb0con/" target="_blank"><b>YouTube</b></a>
+</p>
 
-| ![Gambar 1](./img/odysecpwn.gif) |  
-|:--:|
-| [![GitHub Sponsors - 0daysec](https://img.shields.io/badge/GitHub_Sponsors-odaysec-EA4AAA?logo=githubsponsors)](https://github.com/sponsors/odaysec)  |
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="20" style="vertical-align:middle; margin-right:6px;">
+  <a href="https://pwn0sec.medium.com/" target="_blank"><b>Medium</b></a>
+</p>
 
+</td></tr>
+</table>
 
+</td>
+</tr>
+</table>
 
-
-
-
+</div>
