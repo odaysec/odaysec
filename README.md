@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58F8FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity...;Automating+Bug+Bounty+Workflows...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=DB4325&center=true&vCenter=true&width=600&lines=ZerodayGroups+Cybersecurity...;CVE+Advisories...;Bug+Bounty+Hacktivity...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
 </p>
 <div>
 <img width="337" src="https://www.crowdstrike.jp/wp-content/uploads/2023/11/SILENT-CHOLLIMA_AU.jpg" align=right />
