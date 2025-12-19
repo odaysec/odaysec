@@ -15,8 +15,8 @@
 <p align='center'>
 <img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
 </p>
-<p align='center'>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=odaysec&theme=dracula&hide_border=true" alt="Advanced Activity Stats for odaysec" width="500"/>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=opsysdebug&limit=31&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </p>
 
 
