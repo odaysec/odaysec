@@ -4,9 +4,10 @@
 </p>
 
 <p align="center">
-<img src="https://blog.konstruct.io/content/images/2024/04/github-stars-logo_Color.webp" alt="Nominate me as a GitHub Star" width="22" style="vertical-align:middle; margin-right:6px;"/></a>  <b>Support My Nomination <a href="https://stars.github.com/nominate/"><b>Nominate me here</b></a> </b> <img src="https://blog.konstruct.io/content/images/2024/04/github-stars-logo_Color.webp" alt="Nominate me as a GitHub Star" width="22" style="vertical-align:middle; margin-right:6px;"/></a>
+  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
+  <b>Support My Nomination — <a href="https://stars.github.com/nominate/">Nominate me here</a></b>
+  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
 </p>
-
  
 <br>
 <p align='center'>
