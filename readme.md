@@ -2,6 +2,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=odaysec&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
+<br>
+<div>
+  <div align=center>
+<img src="./img/story.png" width="488" />
+  </div>
+<p align='center'>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
+</p>
+<p align='center'>
+<img src="https://leetcard.jacoblin.cool/odaysec?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
+</p>
 
 <p align="center">
   <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
@@ -14,7 +25,7 @@
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
 </p>
 <p align='center'>
-<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
+<img src="https://leetcard.jacoblin.cool/odaysec?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
 </p>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=8&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
@@ -43,3 +54,12 @@
 | <img src="https://cdn.prod.website-files.com/612f4a80c980be21b6f88b88/67cdaa5e065c1de1fd20915e_SaaS%20Apps-Hero%20Visual-Git.svg" width="100"/> | **[CVE Publications➚](https://github.com/advisories?query=credit%3Aodaysec)**<br>Credited for multiple **CVE advisories** across open-source and enterprise projects.<br>Full list available at: [**Published Advisories → blogs:odaysec**](https://advisory.zerodaysec.org) |
 
 
+
+<img src="https://i.ibb.co.com/YBbZw05q/Yellow-and-Black-Circles-Arts-and-Crafts-Creative-Agency-Logo.png" width="270" align="right" />
+<br/>
+
+<img src="./img/haaaaa.png" width="500" /><br/>
+<sub>“You have the gift of perseverance, and that's what makes you a genius” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : github@zerodaysec.org</sub>
+<br/><br/>
+
+---
