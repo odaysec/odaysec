@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=odaysec&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
+<p align="center">
+  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
+  <b>Support My Nomination — <a href="https://stars.github.com/nominate/">Nominate me here</a></b>
+  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
+</p>
+
 <br>
 <div>
   <div align=center>
@@ -14,19 +20,8 @@
 <img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
 </p>
 
-<p align="center">
-  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
-  <b>Support My Nomination — <a href="https://stars.github.com/nominate/">Nominate me here</a></b>
-  <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="22" />
-</p>
- 
-<br>
-<p align='center'>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
-</p>
-<p align='center'>
-<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for opsysdebug" width="500"/>
-</p>
+
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=odaysec&limit=8&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Stats">
 </p>
