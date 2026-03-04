@@ -11,7 +11,7 @@
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=odaysec" alt="Advanced GitHub Stats for odaysec" width="500"/>
 </p>
 <p align='center'>
-<img src="https://leetcard.jacoblin.cool/odaysec?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
+<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for odaysec" width="500"/>
 </p>
 
 <p align="center">
